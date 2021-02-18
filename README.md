@@ -1,6 +1,4 @@
-[![HitCount](http://hits.dwyl.com/eunjios/eunjios.svg)](http://hits.dwyl.com/eunjios/eunjios)
-
-👋 Hi, I’m Eunji Lee
+👋 Hi, I’m **Eunji Lee**
 
 👀 I’m interested in 
 - iOS
