@@ -3,23 +3,22 @@
 <!---
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 --->
+
 <a href="https://eunjios.github.io">
     <img 
         src="http://img.shields.io/badge/-Dev%20Blog-655ced?style=flat&logo=github&link=https://eunjios.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[![Eunji Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjios&title_color=f59f71)](https://github.com/anuraghazra/github-readme-stats)
+### 👋 Hi, there! I’m Eunji Lee
 
-### 👋 Hi, I’m **Eunji Lee**
+[![Eunji Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjios&title_color=f59f71)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 👀 I’m interested in 
 - iOS
 - Swift
 - Mobile app development
-
-### 📌 Check my blog
 
 
 <!---
