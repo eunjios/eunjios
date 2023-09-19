@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] JSX는 왜 루트 요소가 하나여야만 할까?](https://velog.io/@eunjios/React-JSX%EB%8A%94-%EC%99%9C-%EB%A3%A8%ED%8A%B8-%EC%9A%94%EC%86%8C%EA%B0%80-%ED%95%98%EB%82%98%EC%97%AC%EC%95%BC%EB%A7%8C-%ED%95%A0%EA%B9%8C)
+- [[React] Wrapper 만들기](https://velog.io/@eunjios/React-Wrapper-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [[CSS] 텍스트와 겹치는 두꺼운 밑줄 만들기](https://velog.io/@eunjios/CSS-underline-on-text)
+- [[Prompt Engineering] OpenAI API 로 필요한 데이터 생성하기](https://medium.com/eunjios-dev-blog/prompt-engineering-openai-api-%EB%A1%9C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-757138a9593?source=rss-b8fa2b8a027b------2)
+- [Collaborative Filtering — MBCF&lpar;Model Based Collaborative Filtering&rpar;](https://medium.com/eunjios-dev-blog/collaborative-filtering-mbcf-model-based-collaborative-filtering-b33ac3a5c705?source=rss-b8fa2b8a027b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools</h3>
