@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] 컴포넌트 간 데이터 주고받기](https://velog.io/@eunjios/React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A3%BC%EA%B3%A0%EB%B0%9B%EA%B8%B0)
 - [[React] 이전 state에 의존하는 state 처리하기](https://velog.io/@eunjios/React-%EC%9D%B4%EC%A0%84-state%EC%97%90-%EC%9D%98%EC%A1%B4%ED%95%98%EB%8A%94-state-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [[React] JSX는 왜 루트 요소가 하나여야만 할까?](https://velog.io/@eunjios/React-JSX%EB%8A%94-%EC%99%9C-%EB%A3%A8%ED%8A%B8-%EC%9A%94%EC%86%8C%EA%B0%80-%ED%95%98%EB%82%98%EC%97%AC%EC%95%BC%EB%A7%8C-%ED%95%A0%EA%B9%8C)
 - [[React] Wrapper 만들기](https://velog.io/@eunjios/React-Wrapper-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [[CSS] 텍스트와 겹치는 두꺼운 밑줄 만들기](https://velog.io/@eunjios/CSS-underline-on-text)
-- [[Prompt Engineering] OpenAI API 로 필요한 데이터 생성하기](https://medium.com/eunjios-dev-blog/prompt-engineering-openai-api-%EB%A1%9C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0-757138a9593?source=rss-b8fa2b8a027b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools</h3>
