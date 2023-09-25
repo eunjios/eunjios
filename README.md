@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] Emotion css Prop 적용 안 되는 문제](https://velog.io/@eunjios/Emotion-css-Prop-%EC%A0%81%EC%9A%A9-%EC%95%88-%EB%90%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
 - [[React] 동적으로 컴포넌트 스타일링: styled-components, CSS 모듈, 인라인 스타일, 동적 클래스](https://velog.io/@eunjios/React-%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-styled-components-CSS-%EB%AA%A8%EB%93%88-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%8F%99%EC%A0%81-%ED%81%B4%EB%9E%98%EC%8A%A4)
 - [[JavaScript] toLocaleString 적용 안 되는 문제](https://velog.io/@eunjios/JavaScript-toLocaleString-%EC%A0%81%EC%9A%A9-%EC%95%88-%EB%90%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
 - [[React] 컴포넌트 간 데이터 주고받기](https://velog.io/@eunjios/React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A3%BC%EA%B3%A0%EB%B0%9B%EA%B8%B0)
 - [[React] 이전 state에 의존하는 state 처리하기](https://velog.io/@eunjios/React-%EC%9D%B4%EC%A0%84-state%EC%97%90-%EC%9D%98%EC%A1%B4%ED%95%98%EB%8A%94-state-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
-- [[React] JSX는 왜 루트 요소가 하나여야만 할까?](https://velog.io/@eunjios/React-JSX%EB%8A%94-%EC%99%9C-%EB%A3%A8%ED%8A%B8-%EC%9A%94%EC%86%8C%EA%B0%80-%ED%95%98%EB%82%98%EC%97%AC%EC%95%BC%EB%A7%8C-%ED%95%A0%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools</h3>
