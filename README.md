@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunjiodos@gmail.com)](mailto:eunjiodos@gmail.com)
+[![Velog Badge](http://img.shields.io/badge/-Blog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@eunjios)](https://velog.io/@eunjios)
+
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[React] Emotion css Prop 적용 안 되는 문제](https://velog.io/@eunjios/Emotion-css-Prop-%EC%A0%81%EC%9A%A9-%EC%95%88-%EB%90%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
@@ -26,12 +30,13 @@ Here are some ideas to get you started:
 - [[React] 이전 state에 의존하는 state 처리하기](https://velog.io/@eunjios/React-%EC%9D%B4%EC%A0%84-state%EC%97%90-%EC%9D%98%EC%A1%B4%ED%95%98%EB%8A%94-state-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
+
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
