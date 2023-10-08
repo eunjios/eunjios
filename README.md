@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunjios%2F&count_bg=%23E97341&title_bg=%23E97341&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunjiodos@gmail.com)](mailto:eunjiodos@gmail.com)
 [![Velog Badge](http://img.shields.io/badge/-Blog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@eunjios)](https://velog.io/@eunjios)
 
