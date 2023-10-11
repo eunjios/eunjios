@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] 커스텀 훅으로 HTTP 요청 처리하기, useEffect 무한 루프 해결 방법](https://velog.io/@eunjios/React-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85%EC%9C%BC%EB%A1%9C-HTTP-%EC%9A%94%EC%B2%AD-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-useEffect-%EB%AC%B4%ED%95%9C-%EB%A3%A8%ED%94%84-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 - [[JavaScript] Fetch API vs Axios 차이 및 예제 코드](https://velog.io/@eunjios/JavaScript-Fetch-API-vs-Axios)
 - [[CSS] li 태그 가로로 배치하기](https://velog.io/@eunjios/CSS-li-%ED%83%9C%EA%B7%B8-%EA%B0%80%EB%A1%9C%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
 - [[Git/GitHub] .DS_Store 지우기](https://velog.io/@eunjios/GitGitHub-.DSStore-%EC%A7%80%EC%9A%B0%EA%B8%B0)
 - [[React] useState와 useReducer 언제 사용할까?](https://velog.io/@eunjios/React-useState%EC%99%80-useReducer-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C)
-- [[React] useEffect 개념 및 예제 코드](https://velog.io/@eunjios/React-useEffect-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%98%88%EC%A0%9C-%EC%BD%94%EB%93%9C)
 <!-- BLOG-POST-LIST:END -->
 
 
