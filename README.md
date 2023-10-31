@@ -4,11 +4,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[React] TypeScript로 재사용 가능한 useAxios 훅 만들기](https://velog.io/@eunjios/React-TypeScript%EB%A1%9C-%EC%9E%AC%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-useAxios-%ED%9B%85-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [[React] Redux Toolkit + TypeScript 사용하기](https://velog.io/@eunjios/React-Redux-Toolkit-TypeScript-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [[React] Redux Toolkit 사용하기](https://velog.io/@eunjios/React-Redux-Toolkit-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [[React] Redux로 상태 관리하기 &lpar;기본&rpar;](https://velog.io/@eunjios/React-Redux%EB%A1%9C-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-%EA%B8%B0%EB%B3%B8)
 - [[React] 다음 우편번호 서비스 API &lpar;react-daum-postcode&rpar;로 주소 입력받기](https://velog.io/@eunjios/react-daum-postcode-practice)
-- [[React] 커스텀 훅으로 HTTP 요청 처리하기, useEffect 무한 루프 해결 방법](https://velog.io/@eunjios/React-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85%EC%9C%BC%EB%A1%9C-HTTP-%EC%9A%94%EC%B2%AD-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-useEffect-%EB%AC%B4%ED%95%9C-%EB%A3%A8%ED%94%84-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 <!-- BLOG-POST-LIST:END -->
 
 
