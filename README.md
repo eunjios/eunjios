@@ -4,7 +4,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[웹 접근성] carousel, slider의 웹 접근성 개선하기](https://velog.io/@eunjios/%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-carousel-slider%EC%9D%98-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
+- [[웹 접근성] carousel/slider와 modal 웹 접근성 개선하기](https://velog.io/@eunjios/%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-carousel-slider%EC%9D%98-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
 - [[React] CRA에서 Vite로 마이그레이션 하기](https://velog.io/@eunjios/React-CRA-%EC%97%90%EC%84%9C-Vite%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0)
 - [프로젝트 회고록](https://velog.io/@eunjios/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [[React] 상태 관리 라이브러리 선택하기 &lpar;Redux vs Recoil / React Query / Context API&rpar;](https://velog.io/@eunjios/React-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-Redux-vs-Recoil-React-Query-Context-API)
