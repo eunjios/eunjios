@@ -4,11 +4,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Storybook] Error: It looks like you are having a known issue with package hoisting 해결하는 법 &lpar;Yarn Berry로 업그레이드&rpar;](https://velog.io/@eunjios/Storybook-Error-It-looks-like-you-are-having-a-known-issue-with-package-hoisting-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B2%95-Yarn-Berry-%EB%A1%9C-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C)
 - [[웹 접근성] 슬라이더 접근성을 향상시키는 커스텀 훅 만들기](https://velog.io/@eunjios/%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%8D%94-%EC%A0%91%EA%B7%BC%EC%84%B1%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A4%EB%8A%94-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [[웹 접근성] 모달창/팝업창의 접근성을 향상시키는 커스텀 훅 만들기](https://velog.io/@eunjios/%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EA%B0%9C%EC%84%A0-%EA%B8%B0%EB%A1%9D)
 - [[React] react-hook-form과 yup으로 재사용 가능한 컴포넌트 만들기 &lpar;회원가입 폼 만들기&rpar;](https://velog.io/@eunjios/React-react-hook-form%EA%B3%BC-yup%EC%9C%BC%EB%A1%9C-%EC%9E%AC%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%ED%8F%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [[웹 접근성] carousel/slider와 modal 웹 접근성 개선을 위해 알아둘 팁들](https://velog.io/@eunjios/%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-carousel-slider%EC%9D%98-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
-- [[React] CRA에서 Vite로 마이그레이션 하기](https://velog.io/@eunjios/React-CRA-%EC%97%90%EC%84%9C-Vite%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 
