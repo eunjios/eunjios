@@ -17,3 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/eunjios"
+          date_format: "mmm dd, yyyy"
+          title_max_length: "70"
