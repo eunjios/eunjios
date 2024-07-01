@@ -8,7 +8,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Electron] Electron이 웹 기술로 데스크탑 앱을 개발할 수 있는 이유](https://velog.io/@eunjios/Electron-Electron%EC%9D%B4-%EC%9B%B9-%EA%B8%B0%EC%88%A0%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [[Electron] Electron이 웹 기술로 데스크탑 앱을 개발할 수 있는 이유](https://velog.io/@eunjios/Electron-Electron%EC%9D%B4-%EC%9B%B9-%EA%B8%B0%EC%88%A0%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [[JavaScript] MutationObserver를 사용해서 특정 변화 감지하기](https://velog.io/@eunjios/JavaScript-MutationObserver%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%ED%8A%B9%EC%A0%95-%EB%B3%80%ED%99%94-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0)
 - [[React] state가 0일 때 setState&lpar;0&rpar;은 렌더링을 유발할까? 안 할까?](https://velog.io/@eunjios/react-set-state-and-rendering)
 - [[브라우저] Application/Storage 탭 구경하기](https://velog.io/@eunjios/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-ApplicationStorage-%ED%83%AD-%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0)
