@@ -3,7 +3,7 @@
 
 ### Currently Focusing on Front-End 👩🏻‍💻
 - 주로 **React**와 **TypeScript**를 사용하고 있어요
-- Next.js는 서버 사이드 작업이 필요한 경우 사용해요
+- Electron으로 데스크탑 애플리케이션을 개발하고 있어요 
 - 요즘은 [모던 자바스크립트 Deep Dive](https://www.notion.so/eunjidev/Deep-Dive-3c1a7a005d174a12a2db00de08d92c3e?pvs=4), [타입스크립트 교과서](https://eunjidev.notion.site/af266cd361024577b79d73af2d671c78?pvs=4), [HTTP 완벽 가이드](https://eunjidev.notion.site/HTTP-691e1525d41a4da69d9da2114b8c0e09?pvs=4) 를 읽고 있어요
 
 ### Latest Blog Posts
