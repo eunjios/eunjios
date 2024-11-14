@@ -1,10 +1,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunjiodos@gmail.com)](mailto:eeunjiilee@gmail.com)
 [![Velog Badge](http://img.shields.io/badge/-Blog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@eunjios)](https://velog.io/@eunjios)
 
-### Currently Focusing on Front-End 👩🏻‍💻
+### Currently Focusing on Frontend 👩🏻‍💻
 - 주로 **React**와 **TypeScript**를 사용하고 있어요
-- Electron으로 데스크탑 애플리케이션을 개발하고 있어요 
-- 요즘은 [모던 자바스크립트 Deep Dive](https://www.notion.so/eunjidev/Deep-Dive-3c1a7a005d174a12a2db00de08d92c3e?pvs=4), [타입스크립트 교과서](https://eunjidev.notion.site/af266cd361024577b79d73af2d671c78?pvs=4), [HTTP 완벽 가이드](https://eunjidev.notion.site/HTTP-691e1525d41a4da69d9da2114b8c0e09?pvs=4) 를 읽고 있어요
+- Electron으로 MacOS 데스크탑 애플리케이션을 개발한 경험이 있어요
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,4 +14,7 @@
 - [[Recoil] atom의 default 값을 서버 데이터로 사용할 때 주의할 점 &lpar;Warning: Can&#39;t perform...](https://velog.io/@eunjios/Recoil-atom%EC%9D%98-default-%EA%B0%92%EC%9D%84-%EC%84%9C%EB%B2%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%A3%BC%EC%9D%98%ED%95%A0-%EC%A0%90-Warning-Cant-perform-a-React-state-update-on-a-component-that-hasnt-mounted-yet)
 <!-- BLOG-POST-LIST:END -->
 
-
+### Tech Books in Progress
+- [모던 자바스크립트 Deep Dive](https://www.notion.so/eunjidev/Deep-Dive-3c1a7a005d174a12a2db00de08d92c3e?pvs=4)
+- [타입스크립트 교과서](https://eunjidev.notion.site/af266cd361024577b79d73af2d671c78?pvs=4)
+- [HTTP 완벽 가이드](https://eunjidev.notion.site/HTTP-691e1525d41a4da69d9da2114b8c0e09?pvs=4)
