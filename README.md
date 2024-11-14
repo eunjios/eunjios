@@ -8,7 +8,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Electron] 설정 창을 개발하며 했던 고민 &lpar;send/on 과 invoke/handle&rpar;](https://velog.io/@eunjios/Electron-%EC%84%A4%EC%A0%95-%EC%B0%BD%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%ED%96%88%EB%8D%98-%EA%B3%A0%EB%AF%BC-%EA%B8%B0%EB%A1%9D)
+- [[Electron] send/on 과 invoke/handle 제대로 사용하기](https://velog.io/@eunjios/Electron-%EC%84%A4%EC%A0%95-%EC%B0%BD%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B0-%ED%96%88%EB%8D%98-%EA%B3%A0%EB%AF%BC-%EA%B8%B0%EB%A1%9D)
 - [[Electron] Electron이 웹 기술로 데스크탑 앱을 개발할 수 있는 이유](https://velog.io/@eunjios/Electron-Electron%EC%9D%B4-%EC%9B%B9-%EA%B8%B0%EC%88%A0%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [[React] state가 0일 때 setState&lpar;0&rpar;은 렌더링을 유발할까? 안 할까?](https://velog.io/@eunjios/react-set-state-and-rendering)
 - [[브라우저] Application/Storage 탭 구경하기](https://velog.io/@eunjios/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-ApplicationStorage-%ED%83%AD-%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0)
