@@ -7,7 +7,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Electron] Electron이 웹 기술로 데스크탑 앱을 개발할 수 있는 이유](https://velog.io/@eunjios/Electron-Electron%EC%9D%B4-%EC%9B%B9-%EA%B8%B0%EC%88%A0%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [[Electron] Electron이 웹 기술로 데스크탑 앱을 개발할 수 있는 이유](https://velog.io/@eunjios/electron-web-to-desktop)
 - [[React] state가 0일 때 setState&lpar;0&rpar;은 렌더링을 유발할까? 안 할까?](https://velog.io/@eunjios/react-set-state-and-rendering)
 - [[브라우저] Application/Storage 탭 구경하기](https://velog.io/@eunjios/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-ApplicationStorage-%ED%83%AD-%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0)
 - [[Recoil] atom의 default 값을 서버 데이터로 사용할 때 주의할 점 &lpar;Warning: Can&#39;t perform...](https://velog.io/@eunjios/Recoil-atom%EC%9D%98-default-%EA%B0%92%EC%9D%84-%EC%84%9C%EB%B2%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%A3%BC%EC%9D%98%ED%95%A0-%EC%A0%90-Warning-Cant-perform-a-React-state-update-on-a-component-that-hasnt-mounted-yet)
