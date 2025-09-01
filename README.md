@@ -7,7 +7,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[React] Swiper 라이브러리 커스텀하는 법 &lpar;TypeScript&rpar;](https://velog.io/@eunjios/React-Swiper-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%BB%A4%EC%8A%A4%ED%85%80%ED%95%98%EB%8A%94-%EB%B2%95-TypeScript)
+- [[React] Swiper 라이브러리 커스텀하는 법 &lpar;TypeScript&rpar;](https://velog.io/@eunjios/how-to-customize-react-swiper)
 - [[Electron] Electron이 웹 기술로 데스크탑 앱을 개발할 수 있는 이유](https://velog.io/@eunjios/electron-web-to-desktop)
 - [[React] state가 0일 때 setState&lpar;0&rpar;은 렌더링을 유발할까? 안 할까?](https://velog.io/@eunjios/react-set-state-and-rendering)
 - [[브라우저] Application/Storage 탭 구경하기](https://velog.io/@eunjios/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-ApplicationStorage-%ED%83%AD-%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0)
