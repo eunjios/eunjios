@@ -13,8 +13,3 @@
 - [[React] state가 0일 때 setState&lpar;0&rpar;은 렌더링을 유발할까? 안 할까?](https://velog.io/@eunjios/react-set-state-and-rendering)
 - [[브라우저] Application/Storage 탭 구경하기](https://velog.io/@eunjios/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-ApplicationStorage-%ED%83%AD-%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
-
-### Tech Books in Progress
-- [모던 자바스크립트 Deep Dive](https://www.notion.so/eunjidev/Deep-Dive-3c1a7a005d174a12a2db00de08d92c3e?pvs=4)
-- [타입스크립트 교과서](https://eunjidev.notion.site/af266cd361024577b79d73af2d671c78?pvs=4)
-- [HTTP 완벽 가이드](https://eunjidev.notion.site/HTTP-691e1525d41a4da69d9da2114b8c0e09?pvs=4)
